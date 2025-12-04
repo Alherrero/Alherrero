@@ -1,4 +1,4 @@
-<h1 align="center">Alejandro Herrero </h1>
+<h1 align="center">Alejandro Herrero Raboso</h1>
 
 <p align="center">
 <!--
@@ -13,7 +13,7 @@
 
 ## 🕶️ Quién soy
 
-Soy Alejandro Herrero, un entusiasta de la ciberseguridad al que le gusta aprender algo nuevo cada día. Me centro principalmente en el pentesting web, teniendo experiencia reportando varias vulnerabilidades a una empresa. Trabajo con Windows y Linux y configuro máquinas virtuales. Hago scripts en Python y uso tecnologías web básicas como HTML, CSS y JavaScript. Desarrollo proyectos personales constantemente para reforzar mis habilidades. Aprendo rápido, me adapto con facilidad a nuevos desafíos y siempre busco maneras de mejorar y crecer en el campo del pentesting.
+Soy Alejandro, un entusiasta de la ciberseguridad al que le gusta aprender algo nuevo cada día. Me centro principalmente en el pentesting web, teniendo experiencia reportando varias vulnerabilidades a una empresa. Trabajo con Windows y Linux y configuro máquinas virtuales. Hago scripts en Python y uso tecnologías web básicas como HTML, CSS y JavaScript. Desarrollo proyectos personales constantemente para reforzar mis habilidades. Aprendo rápido, me adapto con facilidad a nuevos desafíos y siempre busco maneras de mejorar y crecer en el campo del pentesting.
 
 **Mi web:** https://alherrero.github.io
 
