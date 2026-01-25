@@ -1,16 +1,3 @@
-<h1 align="center">Alejandro Herrero Raboso</h1>
-
-<p align="center">
-<!--
-<img src="https://img.shields.io/badge/Web%20Pentesting-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security%20Researcher-Blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bug%20Hunter-green?style=for-the-badge" />
--->
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" />
-</p>
-
 ## 🕶️ Quién soy
 
 Soy Alejandro, un entusiasta de la ciberseguridad al que le gusta aprender algo nuevo cada día. Me centro principalmente en el pentesting web y cuento con experiencia reportando varias vulnerabilidades a una empresa. Trabajo con Windows y Linux, y creo mis propios laboratorios en máquinas virtuales. Desarrollo mis propias herramientas en Python y Bash, y realizo proyectos personales de forma constante para reforzar mis habilidades. Aprendo rápido, me adapto con facilidad a nuevos desafíos y siempre busco maneras de mejorar y crecer en el ámbito del pentesting.
