@@ -1,20 +1,19 @@
-## 🕶️ Quién soy
+## Quién soy
+Estudiante de SMR con una fuerte orientación hacia el pentesting y la administración de sistemas. Interesado en comprender en profundidad el funcionamiento de redes, sistemas operativos y vulnerabilidades, aplicando estos conocimientos en laboratorios controlados y entornos de práctica.
 
-Soy Alejandro, un entusiasta de la ciberseguridad al que le gusta aprender algo nuevo cada día. Me centro principalmente en el pentesting web y cuento con experiencia reportando varias vulnerabilidades a una empresa. Trabajo con Windows y Linux, y creo mis propios laboratorios en máquinas virtuales. Desarrollo mis propias herramientas en Python y Bash, y realizo proyectos personales de forma constante para reforzar mis habilidades. Aprendo rápido, me adapto con facilidad a nuevos desafíos y siempre busco maneras de mejorar y crecer en el ámbito del pentesting.
+## Conocimientos
+Cuento con conocimientos en seguridad de aplicaciones web, incluyendo explotación de vulnerabilidades como inyecciones, fallos de autenticación y control de acceso, así como análisis y manipulación de peticiones web mediante proxies de interceptación. También tengo experiencia en resolución de máquinas tipo CTF (boot2root), con más de 60 laboratorios completados en Hack The Box.
 
-**Mi web:** https://alherrero.github.io
+Además, cuento con conocimientos en seguridad de redes, incluyendo análisis de tráfico y ejecución de ataques en entornos controlados (MITM, ARP/DNS spoofing). Experiencia en scripting en PowerShell aplicado a automatización y desarrollo de malware, incluyendo técnicas de evasión de antivirus.
 
-## 🧪 Experiencia técnica
-
-- Reporte de vulnerabilidades web reales a empresas vía **Responsible Disclosure**  
-- Pruebas en entornos controlados con VMs  
-- Análisis y comprensión de CVEs  
+Uso Linux como sistema operativo principal, con experiencia en administración del sistema, gestión de paquetes, configuración de red y automatización mediante scripting en Bash. Acostumbrado a
+trabajar en entornos de terminal.
 
 <!--
 
-## 🧰 Proyectos destacados
+## Proyectos destacados
 
-### 🔸 *test.py* — Herramienta
+### *test.py* — Herramienta
 
 - Escrito en **Python**  
 <p align="left">
@@ -24,11 +23,6 @@ Soy Alejandro, un entusiasta de la ciberseguridad al que le gusta aprender algo 
 </p>
  -->
 
+## Contacto
 
-## 🧩 Objetivo
-
-Seguir creciendo dentro del mundo del **hacking ético**, especializarme cada vez más en pentesting web y fortalecer mi portfolio técnico con proyectos y hallazgos reales.
-
-## 📬 Contacto
-
-- 📧 alejandroherrero95h@gmail.com  
+- alejandroherrero95h@gmail.com
